@@ -4,7 +4,7 @@ import dataStructure.Stack;
 
 public class Main {
 
-//    Entrevitas: Utilizando uma pilha, inverta um conjunto de dados fornecido pelo usuário.
+//  Entrevitas: Utilizando uma pilha (Stack), inverta um conjunto de dados fornecido pelo usuário.
 
     public static void main(String[] args) {
 
