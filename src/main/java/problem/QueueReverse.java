@@ -4,6 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class QueueReverse {
+
 //    Problema 2: Revertendo os primeiros K elementos de uma fila.
 //
 //    Dado  um inteiro K e uma fila de inteiros, a tarefa é inverter a ordem dos primeiros k elementos da fila,
